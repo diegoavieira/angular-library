@@ -1,5 +1,5 @@
 {
-  "name": "@ns/ng-demo-lib",
+  "name": "@nexxera/angular-library",
   "version": "0.0.0",
   "license": "MIT",
   "main": "lib/index.ts",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nsmolenskii/ng-demo-lib.git"
+    "url": "https://github.com/diegoavieira/angular-library.git"
   },
   "dependencies": {
     "@angular/animations": "^4.0.0",

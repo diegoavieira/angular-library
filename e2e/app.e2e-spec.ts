@@ -1,6 +1,6 @@
 import { NsNgDemoLibPage } from './app.po';
 
-describe('ns-ng-demo-lib App', () => {
+describe('nexxera-angular-library App', () => {
   let page: NsNgDemoLibPage;
 
   beforeEach(() => {
