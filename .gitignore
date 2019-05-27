@@ -3,7 +3,7 @@
 !lib
 !.editorconfig
 !.gitignore
-!.angular-cli.json
+!angular.json
 !karma.conf.js
 !package.json
 !protractor.conf.js

@@ -3,8 +3,6 @@
     <mat-toolbar color="primary">Greetings, {{name || 'Unknown'}}!</mat-toolbar>
   </mat-card-title>
   <mat-card-content>
-    <mat-input-container>
-      <input matInput placeholder="Give the name" [(ngModel)]="name">
-    </mat-input-container>
+    <p>{{name}}</p>
   </mat-card-content>
 </mat-card>
