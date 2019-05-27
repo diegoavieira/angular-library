@@ -1,7 +1,7 @@
 import {Component, Input} from '@angular/core';
 
 @Component({
-  selector: 'demo-greeter',
+  selector: 'app-greeter',
   templateUrl: './greeter.component.html',
   styleUrls: ['./greeter.component.scss']
 })
